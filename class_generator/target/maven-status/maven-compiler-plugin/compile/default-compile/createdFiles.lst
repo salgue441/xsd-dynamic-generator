@@ -1,0 +1,10 @@
+com/example/XsdToSingletonGenerator.class
+com/example/strategy/GenerationStrategy.class
+com/example/strategy/GenerationStrategyFactory.class
+com/example/strategy/DefaultGenerationStrategy.class
+com/example/config/XsdGeneratorConfig$1.class
+com/example/transformer/ClassTransformer.class
+com/example/exception/XsdGenerationException$ErrorCode.class
+com/example/config/XsdGeneratorConfig$Builder.class
+com/example/exception/XsdGenerationException.class
+com/example/config/XsdGeneratorConfig.class

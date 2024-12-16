@@ -1,0 +1,7 @@
+/home/carlos/developer/xsd-dynamic-convertor/class_generator/src/main/java/com/example/config/XsdGeneratorConfig.java
+/home/carlos/developer/xsd-dynamic-convertor/class_generator/src/main/java/com/example/XsdToSingletonGenerator.java
+/home/carlos/developer/xsd-dynamic-convertor/class_generator/src/main/java/com/example/strategy/GenerationStrategyFactory.java
+/home/carlos/developer/xsd-dynamic-convertor/class_generator/src/main/java/com/example/strategy/GenerationStrategy.java
+/home/carlos/developer/xsd-dynamic-convertor/class_generator/src/main/java/com/example/strategy/DefaultGenerationStrategy.java
+/home/carlos/developer/xsd-dynamic-convertor/class_generator/src/main/java/com/example/transformer/ClassTransformer.java
+/home/carlos/developer/xsd-dynamic-convertor/class_generator/src/main/java/com/example/exception/XsdGenerationException.java
